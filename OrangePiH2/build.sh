@@ -1,0 +1,1 @@
+/home/guo/git/orangepi/OrangePiH2/scripts/build.sh
